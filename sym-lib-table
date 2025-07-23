@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CH552")(type "KiCad")(uri "${KIPRJMOD}/CH552.kicad_sym")(options "")(descr ""))
+  (lib (name "DW01A")(type "KiCad")(uri "${KIPRJMOD}/DW01A.kicad_sym")(options "")(descr ""))
+  (lib (name "TP4056")(type "KiCad")(uri "${KIPRJMOD}/TP4056.kicad_sym")(options "")(descr ""))
+)
